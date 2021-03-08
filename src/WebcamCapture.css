@@ -1,0 +1,27 @@
+.webcamCapture {
+  position: relative;
+}
+
+.webcamCapture__button {
+  position: absolute;
+  bottom: 0%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  cursor: pointer;
+  color: #fff;
+  font-weight: 600;
+}
+
+.chat__icon {
+  position: absolute;
+  top: 0;
+  right: 1%;
+  font-size: 40px;
+  cursor: pointer;
+  color: #fff;
+  font-weight: 900;
+}
